@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Motos Info</string>
+    <string name="moto_name_1">Honda</string>
+    <string name="moto_name_2">Honda</string>
+    <string name="moto_name_3">Yamaha</string>
+    <string name="moto_name_4">Yamaha</string>
+    <string name="moto_name_5">Benelli</string>
+    <string name="moto_name_6">Honda</string>
+    <string name="moto_name_7">Hero</string>
+    <string name="moto_name_8">Hero</string>
+    <string name="moto_name_9">KTM</string>
+    <string name="moto_name_10">KTM</string>
+    <string name="moto_name_11">Pulsar</string>
+    <string name="moto_name_12">Pulsar</string>
+    <string name="moto_name_13">Pulsar</string>
+    <string name="moto_name_14">Pulsar</string>
+
+    <string name="moto_detail_1">160 cc - 19 hp</string>
+    <string name="moto_detail_2">150 cc - 18 hp</string>
+    <string name="moto_detail_3">320 cc - 38 hp</string>
+    <string name="moto_detail_4">320 cc - 38 hp</string>
+    <string name="moto_detail_5">260 cc - 28 hp</string>
+    <string name="moto_detail_6">200 cc - 21 hp</string>
+    <string name="moto_detail_7">125 cc - 19 hp</string>
+    <string name="moto_detail_8">125 cc - 19 hp</string>
+    <string name="moto_detail_9">280 cc - 30 hp</string>
+    <string name="moto_detail_10">250 cc - 28 hp</string>
+    <string name="moto_detail_11">200 cc - 22 hp</string>
+    <string name="moto_detail_12">200 cc - 22 hp</string>
+    <string name="moto_detail_13">250 cc - 26 hp</string>
+    <string name="moto_detail_14">160 cc - 19 hp</string>
+
+    <string name="moto_description_1">Eating treats on the terrace</string>
+    <string name="moto_description_2">Barking at Daddy</string>
+    <string name="moto_description_3">Stealing socks</string>
+    <string name="moto_description_4">Meeting new animals</string>
+    <string name="moto_description_5">Digging in the garden</string>
+    <string name="moto_description_6">Chasing sea foam</string>
+    <string name="moto_description_7">Bothering her paw-rents</string>
+    <string name="moto_description_8">Sunbathing</string>
+    <string name="moto_description_9">Sleeping in dangerous places</string>
+    <string name="moto_description_10">Sleeping in dangerous places</string>
+    <string name="moto_description_11">Sleeping in dangerous places</string>
+    <string name="moto_description_12">Sleeping in dangerous places</string>
+    <string name="moto_description_13">Sleeping in dangerous places</string>
+    <string name="moto_description_14">Sleeping in dangerous places</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d Detalles: </string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
